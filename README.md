@@ -19,7 +19,9 @@
 ### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,java,sklearn,pandas,numpy,git,github,linux,fastapi,docker" />
+  <img src="https://skillicons.dev/icons?i=python,sql,java" /><br/>
+  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy" /><br/>
+  <img src="https://skillicons.dev/icons?i=fastapi,docker,git,github,linux" />
 </p>
 
 ---
