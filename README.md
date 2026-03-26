@@ -12,16 +12,16 @@
 
 ---
 
-### 🧠 About Me
+### About Me
 
-- 🎓 B.Tech CSE @ **NIIT University** (CGPA: 9.24)  
-- 📊 Built an ML model for **Air Quality Prediction (AOD + Sensor Data)**  
-- 📖 Co-authored a **published book chapter (Cogniverse Press)**  
-- 🔬 Interested in **ML evaluation, LLM bias & probabilistic modeling**  
-- 🚀 Exploring **Deep Learning (CNNs/RNNs) with Keras**  
+- B.Tech CSE @ **NIIT University** (CGPA: 9.24)  
+- Built an ML model for **Air Quality Prediction (AOD + Sensor Data)**  
+- Co-authored a **published book chapter (Cogniverse Press)**  
+- Interested in **ML evaluation, LLM bias & probabilistic modeling**  
+- Exploring **Deep Learning (CNNs/RNNs) with Keras**  
 
 ---
-### ⚒️ Tech Stack
+### Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,sqlite,postgres,sklearn,fastapi,tensorflow,vite,arduino,docker,git,github,linux,windows,vscode,pycharm&perline=8" />
@@ -29,7 +29,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 🔹 **AeroSphinx (ISRO Hackathon 2025)**  
 → Built a Random Forest model for **PM2.5 prediction** using satellite + ground data  
@@ -49,24 +49,24 @@
 
 ---
 
-### 🧠 What I'm Working On
+### What I'm Working On
 
-- 🔬 Improving ML model performance & evaluation techniques  
-- 🤖 Exploring LLM behavior, bias & interpretability  
-- ⚡ Building scalable ML systems with FastAPI  
-- 📊 Developing real-world data-driven applications  
-
----
-
-### 🏆 Achievements
-
-- 📖 Published Book Chapter in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
-- 🛰️ Participant – **ISRO Hackathon 2025**  
-- 🏅 SIH 2025 – College Level Qualified  
+- Improving ML model performance & evaluation techniques  
+- Exploring LLM behavior, bias & interpretability  
+- Building scalable ML systems with FastAPI  
+- Developing real-world data-driven applications  
 
 ---
 
-### 🌐 Connect With Me
+### Achievements
+
+- Published Book Chapter in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
+- Participant – **ISRO Hackathon 2025**  
+- SIH 2025 – College Level Qualified  
+
+---
+
+### Connect With Me
 
 <p align="center">
   <a href="mailto:datadetectiveneel@gmail.com">
@@ -82,7 +82,7 @@
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
