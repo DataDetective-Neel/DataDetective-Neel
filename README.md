@@ -24,12 +24,9 @@
 ### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sklearn,fastapi,docker,git,github,linux,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,sqlite,postgres,sklearn,fastapi,tensorflow,vite,arduino,docker,git,github,linux,windows,vscode,pycharm&perline=6" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
 ---
 
 ### 🚀 Featured Projects
