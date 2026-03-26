@@ -21,12 +21,11 @@
 - 🚀 Exploring **Deep Learning (CNNs/RNNs) with Keras**  
 
 ---
-
 ### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,sklearn,pandas,numpy,fastapi,docker,git,github,linux&perline=5" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,sql,java,sklearn,pandas,numpy,fastapi,docker,git,github,linux&perline=6" />
+</p>>
 ---
 
 ### 🚀 Featured Projects
