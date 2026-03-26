@@ -1,18 +1,24 @@
 <h1 align="center">👋 Hi, I'm Indraneel Chatterjee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;Python+%7C+Scikit-learn+%7C+NLP;Building+Real-World+ML+Projects;Exploring+LLMs+%26+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning+Engineer;Building+Real-World+ML+Systems;Exploring+LLMs+%26+Deep+Learning;Turning+Data+into+Impact" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DataDetective-Neel&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🎓 B.Tech CSE @ NIIT University (CGPA: 9.24)  
+- 🎓 B.Tech CSE @ **NIIT University** (CGPA: 9.24)  
 - 📊 Built an ML model for **Air Quality Prediction (AOD + Sensor Data)**  
 - 📖 Co-authored a **published book chapter (Cogniverse Press)**  
 - 🔬 Interested in **ML evaluation, LLM bias & probabilistic modeling**  
-- 🚀 Currently exploring **Deep Learning (CNNs/RNNs) with Keras**  
+- 🚀 Exploring **Deep Learning (CNNs/RNNs) with Keras**  
 
 ---
 
@@ -30,10 +36,10 @@
 
 🔹 **AeroSphinx (ISRO Hackathon 2025)**  
 → Built a Random Forest model for **PM2.5 prediction** using satellite + ground data  
-→ Performed temporal-spatial feature engineering & Power BI visualization  
+→ Applied temporal-spatial feature engineering + Power BI visualization  
 
 🔹 **Sentiment Analysis Dashboard (SIH 2025)**  
-→ Developed NLP system using **DistilBERT, FastAPI, Docker, Redis**  
+→ NLP system using **DistilBERT + FastAPI + Docker + Redis**  
 → Supports summarization, analytics, and export features  
 
 🔹 **DocuMentor – AI Document Assistant**  
@@ -41,8 +47,8 @@
 → Built using **React + Vite** with performance-focused architecture  
 
 🔹 **Industry Project – Vasus Brakes**  
-→ Built data pipelines & **Power BI dashboards** for business insights  
-→ Applied statistical analysis for actionable decision-making  
+→ Built data pipelines & **Power BI dashboards**  
+→ Delivered actionable insights using statistical analysis  
 
 ---
 
@@ -63,7 +69,7 @@
 
 ---
 
-### 📫 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:datadetectiveneel@gmail.com">
@@ -79,4 +85,12 @@
 
 ---
 
-⭐ *"Turning data into decisions, and models into impact."*
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ <i>"Turning data into decisions, and models into impact."</i>
