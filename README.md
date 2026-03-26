@@ -24,7 +24,7 @@
 ### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sqlite,postgres,sklearn,fastapi,tensorflow,vite,arduino,docker,git,github,linux,windows,vscode,pycharm&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,sqlite,postgres,sklearn,fastapi,tensorflow,vite,arduino,docker,git,github,linux,windows,vscode,pycharm&perline=8" />
 </p>
 
 ---
