@@ -1,61 +1,72 @@
 <h1 align="center">👋 Hi, I'm Indraneel Chatterjee</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+Machine+Learning;Python+%7C+Scikit-learn+%7C+NLP;Building+Real-World+ML+Projects;Exploring+LLMs+%26+Deep+Learning" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning+Engineer;Building+Real-World+ML+Systems;Exploring+LLMs+%26+Deep+Learning;Turning+Data+into+Impact" />
 </p>
 
 ---
-
-### 🧠 About Me
-- 🎓 B.Tech CSE @ NIIT University (CGPA: 9.24)  
-- 📊 Built **Air Quality ML Model (AOD + Sensor Data)**  
-- 📖 Published **Book Chapter (Cogniverse Press)**  
-- 🔬 Interested in **ML Evaluation, LLM Bias & Deep Learning**  
-
----
-
-### ⚒️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,java,sklearn,pandas,numpy,git,github,linux,fastapi,docker" />
+  <img src="https://komarev.com/ghpvc/?username=DataDetective-Neel&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### About Me
 
-🔹 **AeroSphinx (ISRO Hackathon)**  
-→ PM2.5 Prediction using ML + Satellite Data  
+- B.Tech CSE @ **NIIT University** (CGPA: 9.24)  
+- Built an ML model for **Air Quality Prediction (AOD + Sensor Data)**  
+- Co-authored a **published book chapter (Cogniverse Press)**  
+- Interested in **ML evaluation, LLM bias & probabilistic modeling**  
+- Exploring **Deep Learning (CNNs/RNNs) with Keras**  
 
-🔹 **Sentiment Analysis Dashboard**  
-→ NLP system using DistilBERT + FastAPI + Docker  
+---
+### Tech Stack
 
-🔹 **DocuMentor (AI Assistant)**  
-→ Chat-based document understanding + privacy scanning  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,sqlite,postgres,sklearn,fastapi,tensorflow,vite,arduino,docker,git,github,linux,windows,vscode,pycharm&perline=8" />
+</p>
+
+---
+
+### Featured Projects
+
+🔹 **AeroSphinx (ISRO Hackathon 2025)**  
+→ Built a Random Forest model for **PM2.5 prediction** using satellite + ground data  
+→ Applied temporal-spatial feature engineering + Power BI visualization  
+
+🔹 **Sentiment Analysis Dashboard (SIH 2025)**  
+→ NLP system using **DistilBERT + FastAPI + Docker + Redis**  
+→ Supports summarization, analytics, and export features  
+
+🔹 **DocuMentor – AI Document Assistant**  
+→ Chat-based document understanding with **privacy scanning & smart insights**  
+→ Built using **React + Vite** with performance-focused architecture  
 
 🔹 **Industry Project – Vasus Brakes**  
-→ Data pipelines + Power BI dashboards  
+→ Built data pipelines & **Power BI dashboards**  
+→ Delivered actionable insights using statistical analysis  
 
 ---
 
-### 📊 GitHub Stats
+### What I'm Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DataDetective-Neel&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DataDetective-Neel&theme=tokyonight" />
-</p>
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataDetective-Neel&theme=tokyo-night" />
-</p>
+- Improving ML model performance & evaluation techniques  
+- Exploring LLM behavior, bias & interpretability  
+- Building scalable ML systems with FastAPI  
+- Developing real-world data-driven applications  
 
 ---
 
-### 🌐 Connect With Me
+### Achievements
+
+- Published Book Chapter in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
+- Participant – **ISRO Hackathon 2025**  
+- SIH 2025 – College Level Qualified  
+
+---
+
+### Connect With Me
 
 <p align="center">
   <a href="mailto:datadetectiveneel@gmail.com">
@@ -71,4 +82,12 @@
 
 ---
 
-⭐ *"Turning data into decisions, and models into impact."*
+### Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+⭐ <i>"Turning data into decisions, and models into impact."</i>
