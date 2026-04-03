@@ -60,7 +60,7 @@
 
 ### Achievements
 
-- Published Book Chapter in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
+- Published Book Chapter on *Relative Aging Comparisons of Two Coherent Systems under Dependent Identically Distributed Components and System Signatures* in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
 - Participant – **ISRO Hackathon 2025**  
 - SIH 2025 – College Level Qualified  
 
@@ -82,7 +82,7 @@
 
 ---
 
-### Contribution Snake
+### Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
