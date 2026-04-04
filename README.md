@@ -47,6 +47,10 @@
 → Built data pipelines & **Power BI dashboards**  
 → Delivered actionable insights using statistical analysis  
 
+🔹 **DocuMentor**  
+→ Fully Private, Fully Offline: DocuMentor runs 100% in your browser using WebAssembly and WebGPU — no servers, no API keys, no data ever leaves your device. A built-in Privacy Scanner even catches leaked secrets like AWS keys and JWTs in your documents before any AI processing begins.  
+→ GPU-Accelerated Local AI: Model inference runs directly on your GPU via WebGPU, with a dedicated Web Worker keeping the UI smooth during generation. Models are cached in the browser's Origin Private File System so after the first download, everything works offline at full GPU speed.
+
 ---
 
 ### What I'm Working On
