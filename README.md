@@ -40,18 +40,15 @@
 → Supports summarization, analytics, and export features  
 
 🔹 **DocuMentor – AI Document Assistant**  
-→ Chat-based document understanding with **privacy scanning & smart insights**  
-→ Built using **React + Vite** with performance-focused architecture  
+→ Fully Private, Fully Offline: DocuMentor runs 100% in your browser using WebAssembly and WebGPU — no servers, no API keys, no data ever leaves your device. A built-in Privacy Scanner catches leaked secrets like AWS keys and JWTs before any AI processing begins.
+
+→ GPU-Accelerated Local AI: Model inference runs directly on your GPU via WebGPU, with a dedicated Web Worker keeping the UI smooth during generation. Models are cached in the browser's Origin Private File System so after the first download, everything works offline at full GPU speed.
+
+→ Three Powerful Document Modes: Upload any PDF or DOCX — Smart Highlights flags Critical, Medium, and Low priority sections with AI reasoning; Student Mode turns your notes into interactive lessons with quizzes and analogies; Research Mode debates your arguments or rewrites your draft.
 
 🔹 **Industry Project – Vasus Brakes**  
 → Built data pipelines & **Power BI dashboards**  
 → Delivered actionable insights using statistical analysis  
-
-🔹 **DocuMentor**  
-→ Fully Private, Fully Offline: DocuMentor runs 100% in your browser using WebAssembly and WebGPU — no servers, no API keys, no data ever leaves your device. A built-in Privacy Scanner even catches leaked secrets like AWS keys and JWTs in your documents before any AI processing begins.  
-→ GPU-Accelerated Local AI: Model inference runs directly on your GPU via WebGPU, with a dedicated Web Worker keeping the UI smooth during generation. Models are cached in the browser's Origin Private File System so after the first download, everything works offline at full GPU speed.
-→ Three Powerful Document Modes: Upload any PDF or DOCX and choose your workflow — Smart Highlights flags Critical, Medium, and Low priority sections with AI reasoning; Student Mode turns your notes into interactive lessons with quizzes and analogies; Research Mode debates your arguments or rewrites your draft, all grounded in your own uploaded material.
----
 
 ### What I'm Working On
 
