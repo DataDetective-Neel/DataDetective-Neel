@@ -48,6 +48,11 @@
 → Built data pipelines & **Power BI dashboards**  
 → Delivered actionable insights using statistical analysis  
 
+🔹**PipelineIQ – Autonomous CI/CD Failure Resolution System a GitHub**
+→ Architected a distributed, event-driven system using Kafka-based streaming pipelines to ingest GitHub Actions workflow events and route failures for automated diagnosis.
+→ Engineered an LLM-based log analysis engine to automatically detect root causes from large-scale build logs, classify change risk, and generate deterministic code fixes via PR automation.
+→ Reduced mean debugging time by >90% through end-to-end automated remediation workflows, replacing manual developer intervention with policy-driven resolution logic.
+
 ### What I'm Working On
 
 - Improving ML model performance & evaluation techniques  
