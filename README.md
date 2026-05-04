@@ -50,10 +50,10 @@
 
 🔹**PipelineIQ – Autonomous CI/CD Failure Resolution System | GitHub**
 
-- Architected a Kafka-based event-driven pipeline to ingest and process GitHub Actions workflow events in real time  
-- Developed an LLM-powered log analysis engine for root cause detection and failure risk classification  
-- Implemented automated PR generation for deterministic fixes, enabling fully autonomous CI/CD remediation  
-- Achieved >90% reduction in debugging time by replacing manual workflows with policy-driven automation
+→ Architected a Kafka-based event-driven pipeline to ingest and process GitHub Actions workflow events in real time  
+→ Developed an LLM-powered log analysis engine for root cause detection and failure risk classification  
+→ Implemented automated PR generation for deterministic fixes, enabling fully autonomous CI/CD remediation  
+→ Achieved >90% reduction in debugging time by replacing manual workflows with policy-driven automation
 
 ### What I'm Working On
 
