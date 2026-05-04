@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DataDetective-Neel&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
