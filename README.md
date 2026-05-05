@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
