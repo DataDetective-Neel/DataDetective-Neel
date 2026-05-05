@@ -9,14 +9,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DataDetective-Neel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://stats.dooboo.io/api?username=DataDetective-Neel&show_icons=true&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
