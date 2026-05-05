@@ -10,7 +10,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DataDetective-Neel&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataDetective-Neel&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api?username=DataDetective-Neel&show_icons=true&theme=tokyonight" height="165"/>
 </p>
 
 <p align="center">
