@@ -125,13 +125,14 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=BharatYadav007&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
+
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/snake_output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/snake_output/github-contribution-grid-snake.svg">
+  <img alt="snake contribution grid" src="https://raw.githubusercontent.com/BharatYadav007/BharatYadav007/snake_output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
