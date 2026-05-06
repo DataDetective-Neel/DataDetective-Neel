@@ -78,6 +78,27 @@
 - Developing **real-world AI applications**
 
 ---
+---
+
+## 📝 Research & Publications
+
+### 📖 Relative Aging Comparisons of Two Coherent Systems under Dependent Identically Distributed Components and System Signatures
+
+📘 Published in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
+🏢 **Cogniverse Press** | 📅 **2025**
+
+🔗 DOI: https://doi.org/10.5281/zenodo.19692035  
+📚 ISBN (Print): `978-93-47652-64-6`  
+💻 e-ISBN (Digital): `978-93-47652-06-6`
+
+#### Abstract
+- Research focused on **reliability theory**, **coherent systems**, and **stochastic comparisons**
+- Studied relative aging behavior under dependent identically distributed components
+- Applied probabilistic modeling concepts in engineering system analysis
+
+👨‍💻 *Co-authored Book Chapter*
+
+---
 
 ## 🏆 Achievements
 
