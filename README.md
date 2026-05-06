@@ -122,10 +122,11 @@
   <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 --> 
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=DataDetective-Neel&theme=transparent)](https://git.io/streak-stats)
-</div>
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+  </a>
+</p>
 ---
 
 <p align="center">
