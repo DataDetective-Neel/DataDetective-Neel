@@ -6,14 +6,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
----
-
 ## 🚀 About Me
 
 - 🎓 B.Tech CSE @ **NIIT University** (CGPA: 9.24)  
@@ -120,6 +112,14 @@
   <a href="https://datadetective-neel.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
   </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
