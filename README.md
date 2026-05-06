@@ -124,7 +124,7 @@
 --> 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+    <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=transparent&hide_border=true&cache_seconds=3600" />
   </a>
 </p>
 
