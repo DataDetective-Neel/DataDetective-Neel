@@ -123,7 +123,7 @@
 </p>
 --> 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BharatYadav007&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&locale=en&mode=daily&theme=transparent&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 ---
