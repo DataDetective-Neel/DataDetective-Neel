@@ -109,7 +109,7 @@
   <a href="https://www.linkedin.com/in/indraneel-chatterjee007">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://datadetective-neel.github.io/portfolio/">
+  <a href="https://indraneelchatterjee.me/portfolio/)">
     <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
   </a>
 </p>
