@@ -30,14 +30,14 @@
 - Built **Random Forest model** for PM2.5 prediction  
 - Used **satellite + ground data fusion**  
 - Applied **spatio-temporal feature engineering**  
-- Visualized insights using **Power BI**
+- Visualised insights using **Power BI**
 
 ---
 
 ### 🔹 Sentiment Analysis Dashboard (SIH 2025)
 - Built NLP system using **DistilBERT + FastAPI**  
 - Integrated **Docker + Redis pipeline**  
-- Features: summarization, analytics, export  
+- Features: summarisation, analytics, export  
 
 ---
 
@@ -74,7 +74,7 @@
 
 ## 📝 Research & Publications
 
-### 📖 Relative Aging Comparisons of Two Coherent Systems under Dependent Identically Distributed Components and System Signatures
+### 📖 Relative Ageing Comparisons of Two Coherent Systems under Dependent Identically Distributed Components and System Signatures
 
 📘 Published in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
 🏢 **Cogniverse Press** | 📅 **2025**
@@ -85,8 +85,8 @@
 
 #### Abstract
 - Research focused on **reliability theory**, **coherent systems**, and **stochastic comparisons**
-- Studied relative aging behavior under dependent identically distributed components
-- Applied probabilistic modeling concepts in engineering system analysis
+- Studied relative ageing behaviour under dependent identically distributed components
+- Applied probabilistic modelling concepts in engineering system analysis
 
 👨‍💻 *Co-authored Book Chapter*
 
