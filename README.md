@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE @ **NIIT University** (CGPA: 9.24)  
+- 🎓 B.Tech CSE @ **NIIT University** (CGPA: 9.01)  
 - 🤖 Built ML model for **Air Quality Prediction (AOD + Sensor Data)**  
 - 📖 Co-authored **published book chapter (Cogniverse Press)**  
 - 🧠 Interested in **ML Evaluation, LLM Bias & Probabilistic Modeling**  
