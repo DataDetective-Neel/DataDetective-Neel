@@ -4,7 +4,7 @@
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00E5FF,50:007CF0,100:001F3F&text=DATADETECTIVE%20AI%20COMMAND%20CENTER&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:00E5FF,50:007CF0,100:001F3F&height=250&section=header&text=DATADETECTIVE&fontSize=50&fontColor=ffffff&animation=fadeIn&desc=Machine%20Learning%20Engineer%20|%20AI%20Researcher&descAlignY=70"/>
 </p>
 
 <p align="center">
