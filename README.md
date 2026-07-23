@@ -170,19 +170,19 @@ Research            █████████████░░░ 85%
   <img src="https://skillicons.dev/icons?i=python,java,postgres,docker,fastapi,tensorflow,git,github,linux,vscode,latex&perline=6"/>
 </p>
 
----
-
-# 📡 NEURAL ACTIVITY
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataDetective-Neel&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DataDetective-Neel&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataDetective-Neel&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DataDetective-Neel&theme=tokyonight" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DataDetective-Neel&theme=tokyonight" />
+</p>
 
 # 📈 ACTIVITY MONITOR
 
