@@ -17,14 +17,14 @@
 
 ```text
 ╔══════════════════════════════════════╗
-║          AI CORE ONLINE              ║
+║                AI CORE ONLINE                   ║
 ╠══════════════════════════════════════╣
-║ USER          : INDRANEEL            ║
-║ CODENAME      : DATADETECTIVE        ║
-║ UNIVERSITY    : NIIT UNIVERSITY      ║
-║ CGPA          : 9.01                 ║
-║ PUBLICATIONS  : 01                   ║
-║ STATUS        : ONLINE               ║
+║             USER          : INDRANEEL           ║
+║             CODENAME      : DATADETECTIVE       ║
+║             UNIVERSITY    : NIIT UNIVERSITY     ║
+║             CGPA          : 9.01                ║
+║             PUBLICATIONS  : 01                  ║
+║             STATUS        : ONLINE              ║
 ╚══════════════════════════════════════╝
 ```
 
