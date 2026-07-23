@@ -1,134 +1,220 @@
-<h1 align="center">👋 Hi, I'm Indraneel Chatterjee</h1>
+````md
+<!-- ========================================================= -->
+<!--          DATADETECTIVE AI COMMAND CENTER v2.0             -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Data+Science+%7C+ML+Engineer;Building+Real-World+ML+Systems;Exploring+LLMs+%26+Deep+Learning;Turning+Data+into+Impact" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:00E5FF,50:007CF0,100:001F3F&text=DATADETECTIVE%20AI%20COMMAND%20CENTER&fontColor=FFFFFF&fontSize=40&animation=fadeIn&fontAlignY=40"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=950&lines=Initializing+AI+Core...;Loading+Research+Database...;Connecting+Machine+Learning+Modules...;Building+Real-World+AI+Systems...;Exploring+LLMs+and+Explainable+AI...;System+Status:+ONLINE" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DataDetective-Neel&label=VISITORS&color=00E5FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/DataDetective-Neel?style=for-the-badge&color=00E5FF" />
+  <img src="https://img.shields.io/github/stars/DataDetective-Neel?affiliations=OWNER&style=for-the-badge&color=00E5FF" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🖥️ SYSTEM STATUS
 
-- 🎓 B.Tech CSE @ **NIIT University** (CGPA: 9.01)  
-- 🤖 Built ML model for **Air Quality Prediction (AOD + Sensor Data)**  
-- 📖 Co-authored **published book chapter (Cogniverse Press)**  
-- 🧠 Interested in **ML Evaluation, LLM Bias & Probabilistic Modeling**  
-- 🔍 Exploring **Deep Learning (CNNs/RNNs) with Keras**
+```yaml
+Name: Indraneel Chatterjee
+Codename: DataDetective
+Role: Data Scientist | ML Engineer | Researcher
+University: NIIT University
+CGPA: 9.01
+Publication_Count: 1
+Focus_Areas:
+  - Machine Learning
+  - Explainable AI
+  - Deep Learning
+  - Data Engineering
+Status: ONLINE
+````
 
 ---
 
-## 🧰 Tech Stack
+# 📊 LIVE ANALYTICS DASHBOARD
+
+| Metric              | Value          |
+| ------------------- | -------------- |
+| 🎓 Degree           | B.Tech CSE     |
+| 📖 Publication      | 1              |
+| 🤖 AI/ML Projects   | 10+            |
+| 📈 Research Domains | 4              |
+| 💻 Primary Language | Python         |
+| 🚀 Current Focus    | Explainable AI |
+
+---
+
+# 🧠 AI CORE MODULES
+
+```text
+[ MODULES LOADED ]
+
+✓ Machine Learning
+✓ Data Science
+✓ Deep Learning
+✓ FastAPI Development
+✓ Data Engineering
+✓ Research Analytics
+✓ Explainable AI
+✓ MLOps Fundamentals
+
+SYSTEM STATUS: OPERATIONAL
+```
+
+---
+
+# 🔬 ACTIVE INVESTIGATIONS
+
+## 🌍 AeroSphinx
+
+```text
+Status       : Completed
+Domain       : Air Quality Analytics
+Model        : Random Forest
+Data Sources : Satellite AOD + Ground Sensors
+Output       : PM2.5 Prediction
+```
+
+## 📄 DocuMentor
+
+```text
+Status       : Development
+Domain       : AI Assistants
+Features     :
+- Offline AI
+- WebGPU Inference
+- Research Mode
+- Student Mode
+```
+
+## ⚙️ PipelineIQ
+
+```text
+Status       : Active
+Domain       : MLOps / DevOps
+Architecture :
+- Kafka
+- FastAPI
+- Redis
+- LLM Analysis
+```
+
+## 📈 Options Chain Intelligence
+
+```text
+Status       : Research
+Objective    :
+Explainable Market Direction Prediction
+Using Options Chain Features
+```
+
+## 🌐 Geopolitical Logistics Forecaster
+
+```text
+Status       : Research
+Objective    :
+Forecast Logistics Demand
+Using Global Events and Market Signals
+```
+
+---
+
+# 📚 RESEARCH DATABASE
+
+## Relative Ageing Comparisons of Two Coherent Systems under Dependent Identically Distributed Components and System Signatures
+
+```text
+Publisher : Cogniverse Press
+Year      : 2025
+Type      : Book Chapter
+Status    : VERIFIED
+```
+
+DOI:
+https://doi.org/10.5281/zenodo.19692035
+
+Research Areas:
+
+* Reliability Theory
+* Stochastic Comparisons
+* Probabilistic Modeling
+* Engineering Systems Analysis
+
+---
+
+# ⚡ SKILL MATRIX
+
+```text
+Python              ███████████████░ 95%
+Machine Learning    ██████████████░░ 90%
+Data Science        █████████████░░░ 88%
+Statistics          ████████████░░░░ 82%
+Deep Learning       ███████████░░░░░ 75%
+Data Engineering    ██████████░░░░░░ 72%
+MLOps               ████████░░░░░░░░ 65%
+Research            █████████████░░░ 85%
+```
+
+---
+
+# 🛠️ TECHNOLOGY STACK
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,sqlite,postgres,sklearn,fastapi,tensorflow,docker,git,github,linux,vscode,pycharm,latex&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,postgres,docker,fastapi,tensorflow,git,github,linux,vscode,latex&perline=6"/>
 </p>
 
 ---
 
-## 🌟 Featured Projects
-
-### 🔹 AeroSphinx (ISRO Hackathon 2025)
-- Built **Random Forest model** for PM2.5 prediction  
-- Used **satellite + ground data fusion**  
-- Applied **spatio-temporal feature engineering**  
-- Visualised insights using **Power BI**
-
----
-
-### 🔹 Sentiment Analysis Dashboard (SIH 2025)
-- Built NLP system using **DistilBERT + FastAPI**  
-- Integrated **Docker + Redis pipeline**  
-- Features: summarisation, analytics, export  
-
----
-
-### 🔹 DocuMentor – AI Document Assistant
-- 🔐 100% **offline + privacy-first (WebGPU + WASM)**  
-- ⚡ GPU-accelerated local inference  
-- 📄 Smart Highlights, Student Mode, Research Mode  
-
----
-
-### 🔹 PipelineIQ – Autonomous CI/CD Debugger
-- ⚙️ Kafka-based event-driven architecture  
-- 🤖 LLM-powered log analysis  
-- 🔧 Auto PR generation for fixes  
-- 🚀 **90% reduction in debugging time**
-
----
-
-### 🔹 Industry Project – Vasus Brakes
-- Built **data pipelines + Power BI dashboards**  
-- Delivered **actionable business insights**
-
----
-
-## 📈 What I'm Working On
-
-- Improving **ML model evaluation & performance**  
-- Exploring **LLM bias & interpretability**  
-- Building **scalable ML systems (FastAPI)**  
-- Developing **real-world AI applications**
-
----
----
-
-## 📝 Research & Publications
-
-### 📖 Relative Ageing Comparisons of Two Coherent Systems under Dependent Identically Distributed Components and System Signatures
-
-📘 Published in *Foundations and Emerging Trends in Multidisciplinary Sciences*  
-🏢 **Cogniverse Press** | 📅 **2025**
-
-🔗 DOI: https://doi.org/10.5281/zenodo.19692035  
-📚 ISBN (Print): `978-93-47652-64-6`  
-💻 e-ISBN (Digital): `978-93-47652-06-6`
-
-#### Abstract
-- Research focused on **reliability theory**, **coherent systems**, and **stochastic comparisons**
-- Studied relative ageing behaviour under dependent identically distributed components
-- Applied probabilistic modelling concepts in engineering system analysis
-
-👨‍💻 *Co-authored Book Chapter*
-
----
-
-## 🏆 Achievements
-
-- 📖 Published Book Chapter  
-- 🚀 ISRO Hackathon 2025 Participant  
-- 🧠 SIH 2025 – College Level Qualified  
-
----
-
-## 🤝 Connect With Me
+# 📡 NEURAL ACTIVITY
 
 <p align="center">
-  <a href="mailto:datadetectiveneel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/indraneel-chatterjee007">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://indraneelchatterjee.me/portfolio/)">
-    <img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox">
-  </a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DataDetective-Neel&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DataDetective-Neel&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<!--
+# 📈 ACTIVITY MONITOR
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
---> 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=DataDetective-Neel&theme=transparent&hide_border=true&cache_seconds=3600" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DataDetective-Neel&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
+
+# 🛰️ CURRENT OPERATIONS
+
+```text
+[ RUNNING ]
+
+✓ Explainable AI Research
+
+✓ Options Chain Prediction
+
+✓ Geopolitical Forecasting
+
+✓ AI System Design
+
+✓ Deep Learning Experiments
+
+CPU LOAD      : 84%
+MEMORY USAGE  : 71%
+SYSTEM HEALTH : 100%
+```
+
+---
+
+# 🐍 CONTRIBUTION NETWORK
 
 <p align="center">
   <picture>
@@ -136,17 +222,52 @@
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
     />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-    />
     <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
     />
   </picture>
 </p>
 
 ---
 
-⭐ *"Turning data into decisions, and models into impact."*
+# 🌐 COMMUNICATION CHANNELS
+
+<p align="center">
+
+<a href="mailto:datadetectiveneel@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/indraneel-chatterjee007">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://indraneelchatterjee.me">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DATADETECTIVE AI COMMAND CENTER
+
+Research Status : ACTIVE
+Publication     : VERIFIED
+Models Built    : GROWING
+Curiosity Level : MAXIMUM
+
+"Turning Data Into Intelligence."
+
+END OF TRANSMISSION
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</p>
+```
